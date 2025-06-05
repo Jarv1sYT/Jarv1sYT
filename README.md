@@ -5,7 +5,7 @@
 
 </div>
 
-Actualmente enfoco mis esfuerzos en el dominio progresivo de tres disciplinas clave:
+<h3 style="font-size: 1.3em; margin-bottom: 10px;">Actualmente enfoco mis esfuerzos en el dominio progresivo de tres disciplinas clave:</h3>
 
 ### 🏗️ Ingeniería Estructural
 Mi principal campo de interés profesional. Dedico tiempo diario al estudio avanzado de teoría y aplicación estructural, con el objetivo de desarrollar competencia experta a través de formación constante y práctica deliberada.
